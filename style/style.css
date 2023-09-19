@@ -1,0 +1,14 @@
+.logo{
+    margin: auto;
+    background-color: aqua;
+    width: 120px;
+}
+
+img{
+    width: 100px;
+    margin: 5px;
+}
+
+a{
+    text-decoration: none;
+}
